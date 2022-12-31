@@ -47,7 +47,7 @@ public class Operadores {
 
         
         
-        //Aula 3 de Operadores
+        /*Aula 3 de Operadores
 
         int numero = 5;
 
@@ -84,7 +84,36 @@ public class Operadores {
         System.out.println(variavel); //true
 
         variavel = !variavel;
-        System.out.println(variavel); //false
+        System.out.println(variavel); //false */
+
+
+
+
+        //Aula 4 de Operadores
+
+        
+        int a, b;
+
+        //a = 5;
+        a = 6;
+        b = 6;
+
+        //String resultado = "";
+
+        /*EXEMPLO DE CONDICIONAL UTILIZANDO UMA ESTRUTURA IF/ELSE
+        if(a==b)
+            resultado = "verdadeiro";
+        else
+            resultado = "falso"; */
+        
+        
+        //MESMA CONDICIONAL, MAS DESSA VEZ, UTILIZANDO O OPERADOR CONDICIONAL TERNÁRIO
+        /*String resultado = (a==b) ? "verdadeiro" : "false";
+
+        System.out.println(resultado); // verdadeiro*/ 
+
+        int resultado = (a==b) ? 1 : 0;
+        System.out.println(resultado); // 1
 
     
     }
