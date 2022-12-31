@@ -6,25 +6,28 @@
     "configurations": [
         {
             "type": "java",
-            //"name": "Launch with Arguments Prompt",
+            "name": "Launch AboutMeScanner",
+            "request": "launch",
+            "mainClass": "AboutMeScanner",
+            "projectName": "java-terminal_1ad160ef"
+        },
+        {
+            "type": "java",
             "request": "launch",
             "mainClass": "AboutMe",
-            "args": ["DANIELLE","VICTÓRIA","23","1.62"]
+            "args": [
+                "DANIELLE",
+                "VICTÓRIA",
+                "23",
+                "1.62"
+            ]
         },
-        
         {
             "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
         },
-        /*{
-            "type": "java",
-            "name": "Launch AboutMe",
-            "request": "launch",
-            "mainClass": "AboutMe",
-            "projectName": "java-terminal_1ad160ef"
-        },*/
         {
             "type": "java",
             "name": "Launch Comentarios",
@@ -38,8 +41,6 @@
             "request": "launch",
             "mainClass": "MinhaClasse",
             "projectName": "java-terminal_1ad160ef"
-        },
-        
-        
+        }
     ]
 }
