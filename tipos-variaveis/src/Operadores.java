@@ -117,7 +117,7 @@ public class Operadores {
 
 
 
-        //Aula 5 de Operadores
+        /*Aula 5 de Operadores
 
         //Operadores Relacionais
 
@@ -145,9 +145,38 @@ public class Operadores {
 
         String nomeTres = new String("DANIELLE");
         //System.out.println(nomeTres == nomeDois); //Forma errada de comparar um objeto
-        System.out.println(nomeTres.equals(nomeDois)); //Forma certa de comparar um objeto -> método equals
+        System.out.println(nomeTres.equals(nomeDois)); //Forma certa de comparar um objeto -> método equals*/
 
 
+
+
+
+        //Aula 6 de Operadores
+
+        //Operadores Lógicos
+
+        boolean condicao1=true;
+
+        //boolean condicao2=false;
+
+        boolean condicao2=true;
+
+        if(condicao1 && condicao2){
+            System.out.println("As duas condições são verdadeiras");
+        }
+            System.out.println("fim");
+
+
+        if(condicao1 || condicao2){
+            System.out.println("Uma das condições é verdadeiras");
+        }
+            System.out.println("fim");
+
+
+        if (condicao1 && (7 > 4)){
+            System.out.println("As duas condições são verdadeiras");
+
+        }
 
     
     }
