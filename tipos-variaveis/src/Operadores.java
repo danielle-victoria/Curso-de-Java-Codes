@@ -90,13 +90,12 @@ public class Operadores {
 
 
         //Aula 4 de Operadores
-
         
-        int a, b;
+        //int a, b;
 
         //a = 5;
-        a = 6;
-        b = 6;
+        //a = 6;
+        //b = 6;
 
         //String resultado = "";
 
@@ -108,12 +107,47 @@ public class Operadores {
         
         
         //MESMA CONDICIONAL, MAS DESSA VEZ, UTILIZANDO O OPERADOR CONDICIONAL TERNÁRIO
-        /*String resultado = (a==b) ? "verdadeiro" : "false";
+        //String resultado = (a==b) ? "verdadeiro" : "false";
 
-        System.out.println(resultado); // verdadeiro*/ 
+        //System.out.println(resultado); // verdadeiro 
 
-        int resultado = (a==b) ? 1 : 0;
-        System.out.println(resultado); // 1
+        //int resultado = (a==b) ? 1 : 0;
+        //System.out.println(resultado); // 1 
+
+
+
+
+        //Aula 5 de Operadores
+
+        //Operadores Relacionais
+
+        int numero1 = 1;
+        int numero2 = 2;
+
+        boolean simNao = numero1 == numero2;
+        System.out.println("NúmeroUm é igual a NúmeroDois ? " + simNao);
+
+        simNao = numero1 != numero2;
+        System.out.println("NúmeroUm é igual a NúmeroDois ? " + simNao);
+
+        simNao = numero1 > numero2;
+        System.out.println("NúmeroUm é maior que NúmeroDois ? " + simNao);
+
+        if(numero1 < numero2){
+            System.out.println("A nossa condição é verdadeira.");
+        }
+
+
+        String nomeUm = "DANIELLE";
+        String nomeDois = "DANIELLE";
+
+        System.out.println(nomeUm == nomeDois);
+
+        String nomeTres = new String("DANIELLE");
+        //System.out.println(nomeTres == nomeDois); //Forma errada de comparar um objeto
+        System.out.println(nomeTres.equals(nomeDois)); //Forma certa de comparar um objeto -> método equals
+
+
 
     
     }
