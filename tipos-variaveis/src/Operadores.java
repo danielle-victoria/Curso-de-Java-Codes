@@ -27,7 +27,7 @@ public class Operadores {
 
 
 
-        //Aula 2 de Operadores
+        /*Aula 2 de Operadores
 
         int numero = 5;
         System.out.println(-numero); //-5
@@ -42,7 +42,50 @@ public class Operadores {
 
         //numero = + numero; //Errado numero = -5
         numero = numero * -1; // Resolve o problema acima
+        System.out.println(numero);*/
+
+
+        
+        
+        //Aula 3 de Operadores
+
+        int numero = 5;
+
+        //Incremento
+
+        //x repetição
+        numero = numero + 2;
+
         System.out.println(numero);
+
+        //somar sempre 1
+
+        numero++; //numero = numero + 1;
+
+        System.out.println(numero);
+
+
+        System.out.println(numero++); //8
+        System.out.println(numero); //9
+        System.out.println(++numero); //10
+
+
+        //Decremento 
+        System.out.println(numero--); //10
+        System.out.println(numero); //9
+        System.out.println(--numero); //8
+
+
+
+        //Booleanos
+
+        boolean variavel = true;
+        System.out.println(!variavel); // ! -> negação da variavel //false
+        System.out.println(variavel); //true
+
+        variavel = !variavel;
+        System.out.println(variavel); //false
+
     
     }
     
