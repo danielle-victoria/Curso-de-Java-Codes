@@ -1,4 +1,7 @@
-package edu.danielle.primeirasemana;  //pacote criado automaticamente - dentro de src criar pasta edu, dá enter, cria pasta danielle, dá enter, cria pasta primeirasemana e move o arquivo .java para primeira semana
+//pacote criado automaticamente - dentro de src criar pasta edu, dá enter, 
+//cria pasta danielle, dá enter, cria pasta primeirasemana e move 
+//o arquivo .java para primeira semana
+package edu.danielle.primeirasemana;  
 public class BoletimEstudantil {
     public static void main (String[] args){
 
