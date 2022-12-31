@@ -18,6 +18,7 @@ public class MinhaClasse {
         String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
         System.out.println(nomeCompleto);
 }
+    //Declarando métodos
     public static String nomeCompleto (String primeiroNome, String segundoNome){
         return "Resultado do método " +  primeiroNome.concat(" ").concat(segundoNome);
     }
