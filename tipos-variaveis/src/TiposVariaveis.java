@@ -13,6 +13,7 @@ public class TiposVariaveis {
         int numeroNormal = numeroCurto;
         //short numeroCurto2 = numeroNormal; //Erro
         short numeroCurto2 = (short) numeroNormal; //Solução para o problema acima
+        String meuNome = "Danielle"; 
 
        
        
