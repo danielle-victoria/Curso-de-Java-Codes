@@ -15,9 +15,7 @@ public class TiposVariaveis {
         short numeroCurto2 = (short) numeroNormal; //Solução para o problema acima
         String meuNome = "Danielle"; 
 
-       
-       
-       
+              
        
         //Variáveis x Constantes
 
