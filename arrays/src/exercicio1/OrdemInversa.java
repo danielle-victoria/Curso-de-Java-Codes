@@ -2,11 +2,11 @@
  inteiros e mostre-os na ordem inversa. */
 
 package exercicio1;
-import java.util.Scanner;
+
 public class OrdemInversa {
     public static void main(String[] args) throws Exception {
 
-        Scanner scan = new Scanner(System.in);
+        
         int[] numeros = {-5, -6, 15, 50, 8, 4};
         int count = 0;
 
