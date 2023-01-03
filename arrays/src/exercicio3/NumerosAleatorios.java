@@ -4,7 +4,7 @@
 
 package exercicio3;
 import java.util.Random;
-import java.util.Scanner;
+
 
 public class NumerosAleatorios {
     public static void main(String[] args) {
