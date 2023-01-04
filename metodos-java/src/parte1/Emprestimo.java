@@ -4,7 +4,7 @@
   nos valores
  */
 
-package parte3;
+package parte1;
 
 public class Emprestimo {
 

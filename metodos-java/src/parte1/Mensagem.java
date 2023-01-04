@@ -2,7 +2,7 @@
   Bom dia, Boa tarde e Boa noite.
  */
 
-package parte2;
+package parte1;
 
 public class Mensagem {
 

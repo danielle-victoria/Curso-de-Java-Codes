@@ -1,11 +1,12 @@
 import parte1.Calculadora;
-import parte2.Mensagem;
-import parte3.Emprestimo;
+import parte1.Emprestimo;
+import parte1.Mensagem;
 
 public class Main {
 
     public static void main(String[] args) {
         
+        //Exercícios da Aula 1 sobre métodos
         //Calculadora
         System.out.println("Exercício calculadora");
         Calculadora.soma(3, 6);
