@@ -1,5 +1,6 @@
 import parte1.Calculadora;
 import parte2.Mensagem;
+import parte3.Emprestimo;
 
 public class Main {
 
@@ -17,6 +18,12 @@ public class Main {
         Mensagem.obterMensagem(9);
         Mensagem.obterMensagem(14);
         Mensagem.obterMensagem(1);
+
+        //Empréstimo
+        System.out.println("\nExercício empréstimo");
+        Emprestimo.calcular(1000, Emprestimo.getDuasParcelas());
+        Emprestimo.calcular(1000, Emprestimo.getTresParcelas());
+        Emprestimo.calcular(1000, 5);
     }
     
 }
