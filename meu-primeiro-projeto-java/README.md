@@ -1,18 +1,20 @@
-## Getting Started
+## Curso 2 - Ambiente de Desenvolvimento Java  💻 
+<br/>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Plataformas e configuração do ambiente  
+  - Introdução a IDEs 
+  - Configuração do Ambiente
+- Escolha sua IDE
+  - Instalando o VSCode
+  - Instalando o Eclipse
+  - Instalando o Intellij
+  - Integrando o VSCode com o Github
+  
+<br/>
+  
+  <h3>GFT Quality Assurance Para Mulheres 👩 </h3>  
+  <h3>Digital Innovation One ▶️ </h3>
 
-## Folder Structure
+  <br/>
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+  [Links Úteis Sobre o Curso 2 de Java Básico da DIO](https://github.com/danielle-victoria/Cursos-sobre-Java/tree/main/Curso%202%20-%20Ambiente%20de%20Desenvolvimento%20Java)
