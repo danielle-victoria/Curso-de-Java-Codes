@@ -1,18 +1,28 @@
-## Getting Started
+## Curso 4 - Lógica Condicional e Controle de Fluxos em Java 💻
+<br/>   
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Operadores Relacionais  
+  - Apresentação do curso
+  - O que são Operadores Relacionais
+  - Utilizando Operadores Relacionais
+  - Exercício de exemplo
+  - Resolução do exercício  
+- Operadores Lógicos  
+  - O que são Operadores Lógicos
+  - Como utilizar Operadores Lógicos
+  - Exemplos, Boas práticas e Exercitando
+  - Resolução do exercício
+- Controle de Fluxo  
+  - O que é Controle de Fluxo
+  - Criando estruturas de Controle de Fluxo
+  - Boas práticas 
+  - Exercício de Controle de Fluxo
 
-## Folder Structure
+<br/>
+  
+  <h3>GFT Quality Assurance Para Mulheres 👩 </h3>  
+  <h3>Digital Innovation One ▶️ </h3>
 
-The workspace contains two folders by default, where:
+  <br/>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+  [Links Úteis Sobre o Curso 4 de Java Básico da DIO](https://github.com/danielle-victoria/Cursos-sobre-Java/tree/main/Curso%204%20-%20L%C3%B3gica%20Condicional%20e%20Controle%20de%20Fluxos%20em%20Java)
