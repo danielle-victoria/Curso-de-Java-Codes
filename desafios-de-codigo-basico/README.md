@@ -1,6 +1,6 @@
 ## Dominando Algoritmos Básicos Com Desafios de Código Java 💻 
 <br/>
-<h3><b>Desafio de Código 1 - Média de Idade ✔️ </b></h3> 
+<h3>Desafio de Código 1 - Média de Idade ✔️ </h3> 
 <br/>  
 Desafio  
 
@@ -25,7 +25,7 @@ A saída imprimirá a média de idade da turma, conforme o exemplo abaixo:
 
 
 <br/>
-<h3><b>Desafio de Código 2 - Qual é o seu turno ? ✔️ </b></h3> 
+<h3>Desafio de Código 2 - Qual é o seu turno ? ✔️ </h3> 
 <br/>  
 Desafio      
 
@@ -47,7 +47,7 @@ A saída mostrará uma mensagem que informa conforme o seu turno. Veja o exemplo
 
 
 <br/>
-<h3><b>Desafio de Código 3 - A Fila do Banco ✔️ </b></h3> 
+<h3>Desafio de Código 3 - A Fila do Banco ✔️ </h3> 
 <br/>  
 Desafio   
 
@@ -69,7 +69,7 @@ O programa deve imprimir como saída na tela o nome da pessoa e sua posição na
 
 
 <br/>
-<h3><b>Desafio de Código 4 - Encontrando o Percentual de Desconto ✔️ </b></h3> 
+<h3>Desafio de Código 4 - Encontrando o Percentual de Desconto ✔️ </h3> 
 <br/>  
 Desafio     
 
@@ -107,7 +107,7 @@ Exemplo 3
 
 
 <br/>
-<h3><b>Desafio de Código 5 - Descubra o Menor Múltiplo ✔️ </b></h3> 
+<h3>Desafio de Código 5 - Descubra o Menor Múltiplo ✔️ </h3> 
 <br/>  
 Desafio   
 
