@@ -1,6 +1,7 @@
-## Curso 3 - Aprendendo a Sintxa Java - Parte 3  💻
+## Curso 3 - Aprendendo a Sintxa Java - Parte 3.1  💻
 <br/>   
 
+- Java Doc
 - Terminal e Argumentos   
 
 <br/>
