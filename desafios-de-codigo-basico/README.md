@@ -103,4 +103,25 @@ Exemplo 3
 | Entrada | Saída |
 |-- |-- |  
 | 100 | O desconto foi de 50% |
-| 50  |
+| 50  |   
+
+
+<br/>
+<h3><b>Desafio de Código 5 - Descubra o Menor Múltiplo ✔️ </b></h3> 
+<br/>  
+Desafio   
+
+Dado um inteiro positivo n , retorne o menor inteiro positivo que é um múltiplo 2 de e n .   
+
+**Entrada**  
+A entrada consiste em um int, do qual podemos calcular seu menor multiplo.  
+
+**Saída**  
+A entrada consiste em um retorno, que será o menor multiplo digitado e 2.  
+
+
+Exemplo 1    
+
+| Entrada | Saída |
+|-- |-- |  
+| 5 | O resultado eh:10 |
