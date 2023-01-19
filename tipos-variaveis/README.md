@@ -1,4 +1,4 @@
-## Curso 3 - Aprendendo a Sintxa Java  💻
+## Curso 3 - Aprendendo a Sintxa Java - Parte 2  💻
 <br/>   
 
 - Tipos e Variáveis   
