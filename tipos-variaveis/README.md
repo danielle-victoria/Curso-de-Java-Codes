@@ -1,18 +1,13 @@
-## Getting Started
+## Curso 3 - Aprendendo a Sintxa Java  💻
+<br/>   
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Tipos e Variáveis   
 
-## Folder Structure
+<br/>
+  
+  <h3>GFT Quality Assurance Para Mulheres 👩 </h3>  
+  <h3>Digital Innovation One ▶️ </h3>
 
-The workspace contains two folders by default, where:
+  <br/>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+  [Links Úteis Sobre o Curso 3 de Java Básico da DIO](https://github.com/danielle-victoria/Cursos-sobre-Java/tree/main/Curso%203%20-%20Aprendendo%20a%20Sintaxe%20Java)
